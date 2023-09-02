@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm SHINAA
+Hi, I'm SHINAAMIRI
 </h1>
   <br/>
 <p align="center">
